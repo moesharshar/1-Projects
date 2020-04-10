@@ -20,10 +20,6 @@ Differencies between versions of Libraries:-
 
 Alternatives:-
 
-1-
-
-
-
 
 Installations:-
 1-I use Pycharm program with Python_version_3.8 wiht up-to-date libraries.
