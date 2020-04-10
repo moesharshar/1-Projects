@@ -1,3 +1,6 @@
+python==3.7.6
+tensorflow==1.14.0
+scikit-learn==0.19.2
 absl-py==0.9.0
 alabaster==0.7.12
 anaconda-client==1.7.2
@@ -107,7 +110,6 @@ requests==2.22.0
 rope==0.16.0
 Rtree==0.9.3
 ruamel-yaml==0.15.87
-scikit-learn==0.19.2
 scipy==1.1.0
 six==1.14.0
 snowballstemmer==2.0.0
@@ -123,7 +125,6 @@ spyder==4.1.2
 spyder-kernels==1.9.0
 TBB==0.1
 tensorboard==1.14.0
-tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 testpath==0.4.4
