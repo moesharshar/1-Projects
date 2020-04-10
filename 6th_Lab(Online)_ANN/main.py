@@ -12,7 +12,7 @@ y = dataset.iloc[:, 13].values
 
 # Encoding and spliting categorical data
 
-# Method_1:-
+# Method_1:-(scikit-learn=0.19.2)
 # from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 # labelencoder_x_1 = LabelEncoder()
 # x[:, 1] = labelencoder_x_1.fit_transform(x[:, 1])
